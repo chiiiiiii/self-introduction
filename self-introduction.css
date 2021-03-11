@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(240, 193, 236);
+    .wf-nicomoji { font-family: "Nico Moji"; 
+  }
+  li{
+      list-style: square;
+      margin: 10px;
+
+  }
+  a{
+      font-weight: bold;
+  }
+
+  table{
+      border: 1px solid black;
+      border-collapse: collapse;
+  }
+
+  th,td{
+      border:1px solid black ;
+  }
+  
